@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sonali Shrivastav
 - 👀 I’m interested in web development and Python
 - 🌱 I’m currently purshuing Bacherlor of Engineering
-- 💞️ I’m looking Web developement Internship
+- 💞️ I’m looking for Internship in Web developement and Python.
 
 <!---
 shrivastavsonali147/shrivastavsonali147 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
